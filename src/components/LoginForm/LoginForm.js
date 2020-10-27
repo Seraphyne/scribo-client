@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { Button, Input } from '../Utils/Utils'
+import React, { Component } from 'react';
+import { Button, Input } from '../Utils/Utils';
 
 export default class LoginForm extends Component {
   static defaultProps = {
